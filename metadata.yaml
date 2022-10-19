@@ -1,0 +1,25 @@
+_repo: The-woman-of-mystery_69149
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ohnet, Georges
+    alias: Ohnet, Jorge
+    birthdate: 1848
+    deathdate: 1918
+    gutenberg_agent_id: '1336'
+    url: http://www.gutenberg.org/2009/agents/1336
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georges_Ohnet
+    - https://fr.wikipedia.org/wiki/Georges_Ohnet
+description: ''
+gutenberg_issued: '2022-10-13'
+identifiers:
+  gutenberg: '69149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The woman of mystery
+url: http://www.gutenberg.org/ebooks/69149
