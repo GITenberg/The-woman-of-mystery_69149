@@ -1,5 +1,8 @@
 _repo: The-woman-of-mystery_69149
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69149-h/images/cover.jpg
 creator:
   author:
     agent_name: Ohnet, Georges
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Georges_Ohnet
     - https://fr.wikipedia.org/wiki/Georges_Ohnet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69149#The-woman-of-mystery
 gutenberg_issued: '2022-10-13'
 identifiers:
   gutenberg: '69149'
